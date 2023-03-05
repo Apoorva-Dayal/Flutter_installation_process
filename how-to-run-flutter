@@ -1,0 +1,7 @@
+Now After installation ::-- 
+1) Create a folder where u want to create flutter apk and all things where u want to keep the flutter file .
+2) After Creating folder open cmd prmpt and create another folder (""flutter create folder_Name"") i.e. flutter create flutter_complete_guide.
+3) Now open vscode and open the same folder, which U created. It will show too much files inside it..
+4) Open Android Studio 
+5) Then add the android AVK Manager 
+
