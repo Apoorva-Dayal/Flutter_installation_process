@@ -1,0 +1,30 @@
+010 Windows-SDK-Download
+https://flutter.dev/docs/development/tools/sdk/releases?tab=windows
+Official Flutter Docs: https://flutter.io/docs/
+
+macOS Setup Guide: https://flutter.io/setup-macos
+
+Windows Setup Guide: https://flutter.io/setup-windows
+
+Linux Setup Guide: https://flutter.io/setup-linux
+
+Visual Studio Code: https://code.visualstudio.com/
+
+Visual Studio Code Flutter Extension: https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+
+Android Studio: https://developer.android.com/studio/
+
+After installation all of these things go to Environment variable present in your windows and add to your path by copying the path till bin of both flutter and vs code
+
+You can use cmd prompt to check whether all thing is working properly or not ..
+In cmd ::--
+1) flutter 
+2) flutter --version
+3) flutter doctor :: Does all things working properly or not and ! marking is just for that system is not too necessary if it is then fine but if its not thena also fine.
+Do all these steps in proper way as it is shown..
+
+After opening the android studio also add that path and install the android inside it.
+
+If anycase u have doubt then search for it in google as it is i thing u will get all the solution 
+
+Hope for Best!! 👌👌 
